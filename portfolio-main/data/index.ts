@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "My Skills",
+    description: "I constantly work to expand my skill set and stay updated.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Tech enthusiast who let his work speak for itself.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -96,8 +96,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Go HomeMade",
+    des: "Go Homemade provide local business the opportunity to connect with their customers online.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
@@ -107,34 +107,63 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "National Certificate : IT SYSTEMS DEVELOPMENT (Mict Seta)",
+    name: "CTU Training Solutions",
+    title: "2020",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Adobe Certified Associate: Photoshop",
+    name: "CTU Training Solutions",
+    title: "2018",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "CIW Internet Business Associate",
+    name: "CTU Training Solutions",
+    title: "2018",
+  },
+  
+  {
+    quote:
+      "CIW Network Technology Associate",
+    name: "CTU Training Solutions",
+    title: "2018",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      " CIW Web Foundations Associate",
+    name: "CTU Training Solutions",
+    title: "2018",
+  },
+ 
+  {
+    quote:
+      " CIW CIW Site Development Associate",
+    name: "CTU Training Solutions",
+    title: "2018",
+  },
+ 
+  {
+    quote:
+      " CIW Social Media Strategist",
+    name: "CTU Training Solutions",
+    title: "2018",
+  },
+  
+  {
+    quote:
+      " CIW Advanced HTML5 and CSS3 Specialist",
+    name: "CTU Training Solutions",
+    title: "2018",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      " CIW E-Commerce Specialist",
+    name: "CTU Training Solutions",
+    title: "2018",
   },
+ 
 ];
 
 export const companies = [
