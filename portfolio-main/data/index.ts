@@ -76,7 +76,7 @@ export const projects = [
     des: "Glamfind, your trusted platform for discovering and connecting with the finest beauty professionals.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "/glamfind.co.za/",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "Professional, evidence-based support through both individual counselling and corporate wellness solutions",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "/kitawellness.com/",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "B2B analytics firm based in South Africa, delivering bespoke dashboarding, data management, training, and analytics consulting services.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "aquariusanalytics.com/",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Go Homemade provide local business the opportunity to connect with their customers online.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "gohomemade.co.za/",
   },
 ];
 
