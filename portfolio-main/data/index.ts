@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Equipped with a keen eye for design and usability, I specialise in crafting responsive and visually appealing interfaces. ",
+    title: "Equiped with a keen eye for design and usability, I specialise in crafting responsive and visually appealing interfaces. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
